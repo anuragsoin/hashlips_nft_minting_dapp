@@ -52,12 +52,12 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
 
 ```json
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x37d101c5850cA296247156ED553073d8b166A362",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x37d101c5850ca296247156ed553073d8b166a362",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Rinkeby",
+    "SYMBOL": "Eth",
+    "ID": 4
   },
   "NFT_NAME": "Nerdy Coder Clones",
   "SYMBOL": "NCC",
